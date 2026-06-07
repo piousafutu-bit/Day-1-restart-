@@ -1,2 +1,5 @@
-# Day-1-restart-
-My API testing restart.Day 1 Learning + documenting 
+# day-1-restart
+API Testing practice log by @piousafutu-bit
+
+Day 1: Starting from zero. Documenting every bug I find.
+
