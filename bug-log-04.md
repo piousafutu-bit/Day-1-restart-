@@ -9,5 +9,5 @@
    **Expected Result:** 404 Not Found
    **Actual Result:** Server stopped responding / Timeout
    
-   **Severity:** Medium - API not handling bad URLs gracefully
-   **Screenshot:** [Add screenshot here]
+   **Severity:** Medium - API not handling bad URLs gracefully[Empty JSON Response]
+  [Empty JSON Response](https://raw.githubusercontent.com/ktama20/bug-hunting-30days/main/IMG_0729.png) 
